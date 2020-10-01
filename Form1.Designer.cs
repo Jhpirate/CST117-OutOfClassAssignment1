@@ -70,16 +70,16 @@
             // 
             // txtEarthWeight
             // 
-            this.txtEarthWeight.Location = new System.Drawing.Point(383, 66);
+            this.txtEarthWeight.Location = new System.Drawing.Point(385, 66);
             this.txtEarthWeight.Name = "txtEarthWeight";
-            this.txtEarthWeight.Size = new System.Drawing.Size(100, 20);
+            this.txtEarthWeight.Size = new System.Drawing.Size(124, 20);
             this.txtEarthWeight.TabIndex = 3;
             // 
             // txtMarsWeight
             // 
-            this.txtMarsWeight.Location = new System.Drawing.Point(383, 138);
+            this.txtMarsWeight.Location = new System.Drawing.Point(385, 138);
             this.txtMarsWeight.Name = "txtMarsWeight";
-            this.txtMarsWeight.Size = new System.Drawing.Size(100, 20);
+            this.txtMarsWeight.Size = new System.Drawing.Size(124, 20);
             this.txtMarsWeight.TabIndex = 4;
             // 
             // YourWeightOnMars
